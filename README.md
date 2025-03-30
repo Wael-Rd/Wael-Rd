@@ -4,7 +4,11 @@
 
 ###
 
-<h4 align="left">My name is Wael Rdifi, I'm a world champion in the Huawei competition🥇, a Cybersecurity enthusiast, CTF player, and Technical Team Manager at Securinets Tekup. 🔐💻</h4>
+<h2 align="left">Hello World!!👋</h2>
+
+###
+
+<h4 align="left">My name is Wael Rdifi, I'm a world champion in the Huawei competition🥇, a Cybersecurity enthusiast, CTF player, and Technical Team Manager at Securinets Tekup. 🔐💻🛡️</h4>
 
 ###
 
@@ -12,6 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Wael-Rd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="132" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wael-Rd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="168" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
