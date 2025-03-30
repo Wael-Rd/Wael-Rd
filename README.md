@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="272" src="https://64.media.tumblr.com/28eb8662b6a3c44785eede012fd314b5/tumblr_p9ejjkatrs1r8k1coo5_500.gifv"  />
+</div>
+
+###
+
 <h4 align="left">My name is Wael Rdifi, I'm a world champion in the Huawei competition🥇, a Cybersecurity enthusiast, CTF player, and Technical Team Manager at Securinets Tekup. 🔐💻</h4>
 
 ###
@@ -6,10 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Wael-Rd&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="132" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wael-Rd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="131" src="https://64.media.tumblr.com/5d2ceb5a0d31a04e86a785b50762f2d0/tumblr_p9ejjkatrs1r8k1coo2_500.gifv"  />
 
 ###
 
@@ -93,6 +95,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="131" src="https://64.media.tumblr.com/5d2ceb5a0d31a04e86a785b50762f2d0/tumblr_p9ejjkatrs1r8k1coo2_500.gifv"  />
 
 ###
 
