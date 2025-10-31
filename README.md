@@ -87,34 +87,15 @@
   <a href="https://medium.com/@mrx0rd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="medium logo"  />
   </a>
-  <a href="https://www.youtube.com/@cipherguard" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="youtube logo"  />
-  </a>
   <a href="https://twitter.com/wael46757112" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/mrx0rd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/wael__rdifi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
-  </a>
   <a href="tm6.rdifi100@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Wael-Rd/Wael-Rd/output/snake.svg" alt="Snake animation" />
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Wael-Rd/count.svg?"  />
 </div>
 
 ###
