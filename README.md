@@ -52,6 +52,9 @@
   <a href="https://www.linkedin.com/in/wael-rd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://app.hackthebox.com/profile/1234731" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-1f2d3d?style=for-the-badge&logo=hack-the-box&logoColor=green" height="35" alt="hackthebox logo" />
+  </a>
   <a href="https://tryhackme.com/p/Mrx0rd" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="35" alt="tryhackme logo" />
   </a>
